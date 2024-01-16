@@ -1,0 +1,107 @@
+body{
+    background: #5433FF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #A5FECB, #20BDFF, #5433FF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+#navbar{
+    position: fixed;
+    text-align: center;
+    min-width: 190px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+    width: 3px;
+    height: 100%;
+    border-right: solid;
+    border-color: rgba(0, 22, 22, 0.4);
+    background: #1488CC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2B32B2, #1488CC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.nav-link{
+    color: aliceblue;
+    
+}
+#SONY_ZV_II{
+    margin-left: 200px;
+}
+#Designed_for_vloggers{
+    margin-left: 200px;
+}
+#cf{
+    margin-left: 210px;
+}
+#Creative_Freedom{
+    margin-left: 200px;
+}
+#Share_And_Connect{
+    margin-left: 210px;
+}
+#Advanced_Features{
+    margin-left: 200px;
+}
+#Towards_A_Better_Future{
+    margin-left: 200px;
+}
+#navigation{
+    color: white;
+}
+#camera{
+    height: 350px;
+    width: 450px;
+}
+#frame_it_all{
+    height: 200px;
+    width: 300px;
+    margin-left: 700px;
+    position: absolute;
+    top: 490px;
+}
+#versatile_framing{
+    margin-top: 100px;
+}
+#vf{
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    margin-left: 700px;
+    top: 750px;
+}
+#creative_colours{
+    margin-top: 200px;
+}
+#cc{
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    margin-left: 700px;
+    top: 1050px;
+}
+#add_dramatic_touch{
+    margin-top: 150px;
+}
+#boxone{
+    border: 5px solid black;
+    background-color: #A5FECB;
+    height: 65px;
+    width: 585px;
+    
+}
+#comp{
+    margin-left: 15px;
+}
+#compact{
+    border: 2px solid black;
+    background-color: whitesmoke;
+    height: 50px;
+    margin-top: 2px;
+    position: absolute;
+    border-radius: 100px;
+    width: 40%;
+}
+
+
+
+
